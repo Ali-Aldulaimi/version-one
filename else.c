@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[]){ 
 	  int a; 
-
+/* if & else staitment */
 printf("Input an integer and push return:\n"); 
 scanf("%d", &a); 
 
