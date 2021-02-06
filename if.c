@@ -1,5 +1,5 @@
 #include <stdio.h> 
-
+/* this is a file about IF condional staitmment */
 int main(int argc, char *argv[]){ 
 	  int a; 
 printf("Input an integer and press enter:\n"); 
